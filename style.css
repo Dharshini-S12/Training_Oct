@@ -8,3 +8,9 @@ body{
     flex-direction: column;
     align-items: center;
 }
+#t1:focus{
+    background-color: yellow;
+    cursor: grab;
+}
+
+/*Selectors used in css and ho wto use external css
